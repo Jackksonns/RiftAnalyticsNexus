@@ -159,7 +159,7 @@ The system includes powerful analytical views for deep insights:
    - Performance optimization
 
 ## 👨‍💻 Author
-- GitHub: [@Jackksonns](https://github.com/Jackksonns)
+- GitHub: [Jackson ZHOU](https://github.com/Jackksonns)
 - with other two students (They're coming soon...)
 
 ## ⭐ Show your support
